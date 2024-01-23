@@ -32,12 +32,13 @@ File contents:
 
 ```
 **write command here so it will look fancy on GitHub**
-```ssh -i 2350.pem ubuntu@35.170.194.245
+ssh -i 2350.pem ubuntu@35.170.194.245
+```
 
 ## Part 5 Answers
 
 1. Command to clone your GitHub repository:
 
 ```
-**write command here so it will look fancy on GitHub**
-```'git clone https://github.com/Hezekiah02/CEG2350.git
+git clone https://github.com/Hezekiah02/CEG2350.git
+```
